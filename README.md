@@ -12,8 +12,14 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+Me chamo Vinicius Richta, sou do interior de São Paulo. Desde pequeno sempre fui fascinado por tecnologia, eu adorava descobrir como as coisas funcionavam e sonhava em criar algo que pudesse facilitar a vida das pessoas através da tecnologia. Sem acesso imediato a cursos formais comecei minha jornada estudando por conta própria, assistindo a vídeos no YouTube e explorando conteúdos gratuitos.
+
+Com o tempo fui me aprofundando, em 2023 entrei na faculdade de Ciência de Dados na Universidade Virtual do Estado de São Paulo (Univesp). No mesmo ano, dei um grande passo e comecei um curso especializado em desenvolvimento web focado no Front-end. Desde então, tenho mergulhado de cabeça no mundo da programação.
+
+Mesmo sem experiência formal no início, eu não quis esperar por uma oportunidade e fui atrás. Desenvolvi projetos próprios, pratiquei com tecnologias como JavaScript, ReactJS, NodeJS compartilhei tudo no meu GitHub. Hoje, atuo como freelancer, criando interfaces intuitivas e responsivas, melhorando a performance de páginas e consumindo também várias APIs.
+
+Minha trajetória me ensinou que experiência não se resume a tempo de carteira assinada, mas sim à capacidade de resolver problemas e entregar valor.
+
 <div> 
   <a href="https://instagram.com/v_richta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:viniciusrichta123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
