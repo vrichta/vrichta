@@ -20,6 +20,7 @@ Mesmo sem experiência formal no início, eu não quis esperar por uma oportunid
 
 Minha trajetória me ensinou que experiência não se resume a tempo de carteira assinada, mas sim à capacidade de resolver problemas e entregar valor.
 
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 <div> 
   <a href="https://instagram.com/v_richta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:viniciusrichta123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
