@@ -16,13 +16,7 @@
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
  
-Me chamo Vinicius Richta, sou do interior de São Paulo. Desde pequeno sempre fui fascinado por tecnologia, eu adorava descobrir como as coisas funcionavam e sonhava em criar algo que pudesse facilitar a vida das pessoas através da tecnologia. Sem acesso imediato a cursos formais comecei minha jornada estudando por conta própria, assistindo a vídeos no YouTube e explorando conteúdos gratuitos.
-
-Com o tempo fui me aprofundando, em 2023 entrei na faculdade de Ciência de Dados na Universidade Virtual do Estado de São Paulo (Univesp). No mesmo ano, dei um grande passo e comecei um curso especializado em desenvolvimento web focado no Front-end. Desde então, tenho mergulhado de cabeça no mundo da programação.
-
-Mesmo sem experiência formal no início, eu não quis esperar por uma oportunidade e fui atrás. Desenvolvi projetos próprios, pratiquei com tecnologias como JavaScript, ReactJS, NodeJS compartilhei tudo no meu GitHub. Hoje, atuo como freelancer, criando interfaces intuitivas e responsivas, melhorando a performance de páginas e consumindo também várias APIs.
-
-Minha trajetória me ensinou que experiência não se resume a tempo de carteira assinada, mas sim à capacidade de resolver problemas e entregar valor.
+Me chamo Vinicius Richta, sou do interior de São Paulo. Desde pequeno sempre fui fascinado por tecnologia, eu adorava descobrir como as coisas funcionavam e sonhava em criar algo que pudesse facilitar a vida das pessoas através da tecnologia. Com o tempo fui me aprofundando, em 2023 entrei na faculdade de Ciência de Dados na Universidade Virtual do Estado de São Paulo (Univesp). No mesmo ano, dei um grande passo e comecei um curso especializado em desenvolvimento web focado no Front-end e também Back-end. Desde então, tenho mergulhado de cabeça no mundo da programação.
 
 <div> 
    <h2>Links Sociais</h2>
